@@ -1,0 +1,4 @@
+creat table table_name (column_name data_type,
+column_name data_typ,
+column_name data_typ)
+in database my_company
